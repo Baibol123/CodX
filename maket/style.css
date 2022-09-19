@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300&display=swap');
+.had{
+    margin-left: 148px;
+    margin-top: 36px;
+    background: #FFFFFF;
+    box-shadow: 0px -4px 19px rgba(0, 0, 0, 0.03);
+    border-radius: 30px;
+    display: flex;
+    font-family: 'Outfit';
+    font-style: normal;
+    
+}
+.tex{
+    list-style: none;
+    display: flex;
+}
+.about{
+    margin-left: 48px;
+    margin-top: 6px;
+    font-size: 15px;
+    line-height: 16px;
+}
+.nft{
+    font-size: 15px;
+    line-height: 16px;
+    margin-left: 48px;
+    margin-top: 6px;
+}
+.cont{
+    font-size: 15px;
+    line-height: 16px;
+    margin-left: 48px;
+    margin-top: 6px;
+}
+.twit{
+    margin-left: 1000px;
+    margin-top: 6px;
+}
+.inst{
+    margin-left: 20px;
+    margin-top: 6px;
+}
+.fc{
+    margin-left: 20px;
+    margin-top: 6px;
+}
+.button1{
+    height: 40px;
+    background: #2F2F2F;
+    border-radius: 20px;
+    text-align: center;
+    font-family: 'Outfit';
+    font-style: normal;
+    color: #FFFFFF;
+    margin-left: 53px;
+    margin-top: -6px;
+}
